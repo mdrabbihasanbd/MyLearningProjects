@@ -1,0 +1,111 @@
+
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+
+.addcng i h6{
+  float: right;
+}
+#mybut{
+  border-radius: 20px;
+}
+
+
+.propic{
+	border-radius: 50%;
+}
+
+.textsizo{
+	font-size: 50px;
+	font-weight: 20px;
+	font-family:Monospace;
+}
+
+#data{
+	width:auto;
+	height:auto;
+	margin:20px;
+	padding:20px;
+	border-bottom: solid 5px rgb(255, 189, 51);
+	border-radius:3px;
+	background-color:rgba(0, 0, 0, 0.5);
+}
+
+.fa {
+  padding: 25px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 60%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+
+}
+
+
+
+
+
